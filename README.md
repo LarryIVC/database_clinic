@@ -21,7 +21,7 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 Clinic Database <a name="about-project"></a>
+# 📖 Database Clinic <a name="about-project"></a>
 
 I will get a database diagram, interpret it, and implement the SQL needed to build that database.
 
@@ -62,7 +62,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  cd Vet-clinic-database
+  cd database-clinic
   git clone https://github.com/LarryIVC/database_clinic.git
 ```
 
